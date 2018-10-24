@@ -1,5 +1,5 @@
 # Python for Finance: Investment Fundamentals and Data Analytics
-This is the code repository for [Python for Finance: Investment Fundamentals and Data Analytics](https://www.packtpub.com/application-development/begin-python-programming-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=9781788990813), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for Python for Finance: Investment Fundamentals and Data Analytics, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 This course will take you on a journey where you'll learn how to code in Python. You will learn how to use Python in a real working environment and explore how Python can be applied in the world of Finance to solve portfolio optimization problems. The first part of the course is ideal for beginners and people who want to brush up on their Python skills. And then, once we have covered the basics, we will be ready to tackle financial calculations and portfolio optimization tasks. The Finance block of this course will teach you in-demand, real-world skills employers are looking for. This explains topics such as how to work with Python's conditional statements, functions, sequences, and loops, build investment portfolios, and more.
 
@@ -18,8 +18,7 @@ This course will take you on a journey where you'll learn how to code in Python.
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is designed for data scientists, programming beginners, people interested in finance and investments, programmers who want to specialize in finance, finance graduates, and professionals who need to know more about how to apply their knowledge in Python
-### Technical Requirements
-This course has the following software requirements:<br/>
+
     
 
 ## Related Products
